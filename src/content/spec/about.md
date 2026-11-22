@@ -17,7 +17,7 @@
 ## 下载与支持
 
 - **下载甘露解析**：站点导航栏「下载」入口（GitHub / 云盘）
-- **社区交流 / 问题反馈**：[官方QQ社区群](https://qm.qq.com/q/soFNtWRytq)，也欢迎通过 [GitHub Issues](https://github.com/PointersMZX/LGAnalysis/issues) 反馈
+- **社区交流 / 问题反馈**：[官方QQ社区群](https://qm.qq.com/q/DGf5XI9jgW)，也欢迎通过 [GitHub Issues](https://github.com/PointersMZX/LGAnalysis/issues) 反馈
 
 ---
 

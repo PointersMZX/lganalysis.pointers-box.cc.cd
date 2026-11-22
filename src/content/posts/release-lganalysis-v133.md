@@ -46,6 +46,6 @@ draft: false
 
 ## 反馈
 
-- 问题与建议：[GitHub Issues](https://github.com/PointersMZX/LGAnalysis/issues) ｜ 社区交流：[官方QQ社区群](https://qm.qq.com/q/soFNtWRytq)
+- 问题与建议：[GitHub Issues](https://github.com/PointersMZX/LGAnalysis/issues) ｜ 社区交流：[官方QQ社区群](https://qm.qq.com/q/DGf5XI9jgW)
 
 *PointersMZX/LGAnalysis 的官方电脑端，GNU AGPL-3.0 开源。*

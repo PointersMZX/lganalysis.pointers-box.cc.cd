@@ -43,7 +43,7 @@ pnpm preview  # 预览构建产物
 
 - 官网：https://lganalysis.pointers-box.cc.cd
 - 客户端仓库：https://github.com/PointersMZX/LGAnalysis
-- 社区 QQ 群：https://qm.qq.com/q/soFNtWRytq
+- 社区 QQ 群：https://qm.qq.com/q/DGf5XI9jgW
 
 ## 版权
 
