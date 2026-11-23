@@ -23,7 +23,7 @@ export async function GET(context: APIContext): Promise<Response> {
 		title: siteConfig.title,
 		description: siteConfig.subtitle || "No description",
 		site: context.site ?? "https://www.pointers-box.cc.cd",
-		customData: `<templateTheme>Pointers-BOX</templateTheme>
+		customData: `<templateTheme>甘露解析</templateTheme>
 		<templateThemeVersion>${pkg.version}</templateThemeVersion>
 		<templateThemeUrl>https://github.com/PointersMZX/pointers-box.cc.cd</templateThemeUrl>
 		<lastBuildDate>${formatDateI18nWithTime(new Date())}</lastBuildDate>`,

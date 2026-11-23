@@ -1,5 +1,5 @@
 ---
-title: "甘露解析（LG Analysis）"
+title: "甘露解析"
 slug: lganalysis
 published: 2026-10-31
 order: 100

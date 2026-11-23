@@ -17,7 +17,7 @@ export async function GET(context: APIContext): Promise<Response> {
 		subtitle: siteConfig.subtitle || siteConfig.description || "",
 		entries,
 		authorName: profileConfig.name,
-		generator: `Pointers-BOX v${pkg.version}`,
+		generator: `甘露解析 v${pkg.version}`,
 		includeContent,
 	});
 	return new Response(xml, {

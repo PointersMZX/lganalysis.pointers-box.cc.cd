@@ -79,7 +79,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅副标题
 			subtitle: [
 				"Pointers开发的解析软件",
-				"LG Analysis官方网站",
+				"甘露解析官方网站",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
