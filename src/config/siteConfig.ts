@@ -45,7 +45,7 @@ export const siteConfig: SiteConfig = {
 	title: "甘露解析",
 
 	// 站点副标题
-	subtitle: "甘露解析官方网站",
+	subtitle: "官方网站",
 
 	// 站点 URL
 	site_url: "https://lganalysis.pointers-box.cc.cd",
